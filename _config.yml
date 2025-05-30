@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 title: MSF 2025 Conference
 description: Colloque International en Management, Finance et Comptabilité – Hammamet, June 19–21, 2025
+theme: just-the-docs
+
+# Optional enhancements:
+color_scheme: light
+logo: /assets/images/logo.png  # If you have a logo
